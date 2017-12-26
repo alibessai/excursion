@@ -1,0 +1,22 @@
+html {
+  text-align: center;
+  font-family: verdana;
+  background-color: black;
+}
+u {
+  color: aquamarine;
+  font-size: 16px;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+footer {
+  text-align: right;
+  color: gray;
+}
